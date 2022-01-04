@@ -1,0 +1,16 @@
+.nav {
+
+    ul {
+        padding: 0;
+    }
+
+    li {
+        text-decoration: none;
+        display: inline-block;
+        margin-right: 20px;
+    }
+}
+
+.active {
+    color: red;
+}

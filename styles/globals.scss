@@ -1,3 +1,5 @@
+@import './variables.scss';
+
 html,
 body {
   padding: 0;
@@ -20,4 +22,8 @@ a {
   padding: 40px;
 
   max-width: 1200px;
+
+  &.main {
+    min-height: calc(100vh - $footer-height - $nav-height - 20px);
+  }
 }

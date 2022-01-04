@@ -1,4 +1,8 @@
+@import '../../styles/variables.scss';
+
 .nav {
+
+    max-height: $nav-height;
 
     ul {
         padding: 0;

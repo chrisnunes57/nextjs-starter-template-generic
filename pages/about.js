@@ -6,7 +6,7 @@ function About() {
             <Head>
                 <title key="title">About</title>
             </Head>
-            <h1 className="">About</h1>
+            <h2 className="">About</h2>
             <p className="">about me! about me! about me! about me! about me! about me! about me! about me! about me! about me! about me! about me! about me! about me! about me! about me! about me! about me! about me! about me! about me! about me! about me! about me! about me! about me! about me! about me! about me! </p>
         </main>
     )

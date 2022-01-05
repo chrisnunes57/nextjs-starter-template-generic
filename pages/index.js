@@ -5,8 +5,8 @@ function HomePage() {
     <>
       <DefaultHead />
 
-      <h2>Welcome to Next.js!</h2>
-      <h4>Subtitle</h4>
+      <h1>Welcome to Next.js!</h1>
+      <h3>Subtitle</h3>
     </>
   )
 }

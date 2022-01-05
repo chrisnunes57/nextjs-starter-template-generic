@@ -6,7 +6,6 @@ It is built on top of create-next-app, with my preferred file structure, default
 
 ## Notable Features
 
-- Built-in markdown styling
 - Common default styles/utility classes that I use
 - File structure with `/components` and `/utils` folders
 - Dummy navigation/routing set up out of the box

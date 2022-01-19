@@ -4,7 +4,7 @@ function Footer() {
 
     return (
         <div className={styles.footer}>
-            Chris Nunes website :0
+            <small>Chris Nunes website :0</small>
         </div>
     )
 }

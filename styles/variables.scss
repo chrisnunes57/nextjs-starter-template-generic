@@ -17,7 +17,7 @@ $text-color-primary: #000000;
 
 // font sizes
 $text-base-size: 1.05em;
-$text-scale-ratio: 1.25; // major third 😎
+$text-scale-ratio: 1.2; // minor third 😎
 
 $text-xs: calc($text-base-size / ($text-scale-ratio * $text-scale-ratio));
 $text-sm: calc($text-base-size / $text-scale-ratio);
@@ -28,7 +28,7 @@ $text-xxl: calc($text-base-size * $text-scale-ratio * $text-scale-ratio * $text-
 $text-xxxl: calc($text-base-size * $text-scale-ratio * $text-scale-ratio * $text-scale-ratio * $text-scale-ratio * $text-scale-ratio);
 
 // spacing
-$baseline-space: 1em;
+$baseline-space: 1.5em;
 
 $space-sm:   calc($baseline-space/2);
 $space-md:   $baseline-space;

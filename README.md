@@ -10,3 +10,8 @@ It is built on top of create-next-app, with my preferred file structure, default
 - File structure with `/components` and `/utils` folders
 - Dummy navigation/routing set up out of the box
 - built-in `<Head>` component with meta/seo stuffs
+
+## Deployment checklist
+
+- Edit the DefaultHead component, and CustomHead if it exists
+- Edit config.json with prod url
